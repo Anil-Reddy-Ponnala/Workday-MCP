@@ -1,0 +1,3004 @@
+{
+  "Report_Entry": [
+    {
+      "Worker": "Sam Muller",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 11.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-07-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Patel",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 1.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-03-28",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 40.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-12-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 26.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-07-30",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 18.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-07-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 36.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-09-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 23.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-07-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 4.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-08-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 13.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-07-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 37.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-04-24",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 38.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 27.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-11-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Muller",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 31.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-07-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 24.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-04-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 13.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-08-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 7.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-10-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 17.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-02-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Muller",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 19.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-12-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 28.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-09-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 17.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-03-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 27.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-08-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 31.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-01-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 23.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-11-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 29.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-05-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Nguyen",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 30.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-08-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 30.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-07-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 22.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-02-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 11.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-10-27",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 15.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-04-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 10.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 17.7,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-11-27",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 4.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-05-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 17.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-05-13",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 14.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-10-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 2.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-08-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 22.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-06-17",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Casey Rossi",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 19.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-07-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 16.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-05-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 9.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-07-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 31.4,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-01-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 38.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-10-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 28.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-08-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 17.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 15.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-01-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 4.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-10-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 8.4,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-11-22",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 17.7,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-04-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 6.6,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-01-28",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 7.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-12-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 14.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-08-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Kim",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 37.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-03-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Chen",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 27.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-09-13",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 32.8,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-11-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 13.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-04-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 8.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-07-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 37.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 29.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-02-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 19.0,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-02-28",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 35.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-08-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 22.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-06-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 20.4,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-04-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 33.8,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-12-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 23.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-08-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 4.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-04-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Garcia",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 13.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-04-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Rossi",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 24.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-10-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 20.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-01-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 33.3,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-28",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 38.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-12-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 21.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-05-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 30.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-08-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 28.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-05-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 8.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 4.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-07-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 26.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-10-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 16.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-03-03",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 8.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-12-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 8.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-09-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 9.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-02-05",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 19.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-10-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 20.1,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-09-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 3.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-01-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 28.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-10-28",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 20.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-03-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 32.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-01-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 22.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-03-26",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 9.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-07-27",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 6.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-06-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 35.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-12-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 36.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-01-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 4.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-09-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 26.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-10-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Nguyen",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 30.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-07-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Kim",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 19.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-05-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 7.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-12-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 12.3,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-09-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 39.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 3.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-02-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 17.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-09-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 16.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-10-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 16.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-12-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 32.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-01-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 21.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-11-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 31.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-10-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 36.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 17.3,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-10-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 9.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-06-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 13.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-08-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 1.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-18",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 15.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-11-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 24.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-05-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 26.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-08-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 10.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-03-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 20.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 20.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-06-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 8.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-04-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 7.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-02-25",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Jordan Kim",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 22.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-01-19",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 31.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-10-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 17.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-09-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 36.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-10-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 16.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 4.8,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-09-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 23.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-07-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 16.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-11-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 36.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-08-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 1.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-06-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 35.5,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-03-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 1.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 30.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-04-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 29.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-12-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 19.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-03-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 0.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-08-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 38.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-08-28",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Muller",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 19.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-07-25",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 37.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-12-03",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 39.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-05-12",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 21.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-03-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 25.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-04-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 10.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-08-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 10.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-02-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 29.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-02-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 37.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-11-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Chen",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 4.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-08-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 16.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-12-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Nguyen",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 23.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-06-27",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 27.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-10-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 28.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-11-30",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 34.0,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-06-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 29.8,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 10.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-03-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 21.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-09-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 20.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-04-05",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 31.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-06-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 12.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-10-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 29.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-05-23",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Jamie Kim",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 4.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-03-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 23.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-12-25",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 30.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-11-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 29.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-05-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 9.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-10-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 2.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-12-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Muller",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 18.0,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-08-15",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 18.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-01-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Rossi",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 11.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-01-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 39.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-08-17",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 35.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-07-18",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 5.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-05-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 30.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-06-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 29.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-04-22",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 7.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-06-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 32.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-04-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 31.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-03-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 34.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-10-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 18.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-05-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 22.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-07-18",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 35.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-10-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 20.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-06-13",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 22.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-01-15",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 36.1,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-02-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 33.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 7.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-06-12",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 17.5,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-10-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 7.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-08-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 31.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-12-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 27.1,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-09-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 23.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-12-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 7.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-09-19",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 2.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-10-15",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Brown",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 25.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-05-05",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 16.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-02-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 29.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-04-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Kim",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 32.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-08-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 14.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-08-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 2.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-01-17",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 21.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-08-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 10.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-12-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 37.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-06-18",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 30.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-01-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 35.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-07-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Brown",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 6.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-12-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 7.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 1.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-08-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 18.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-01-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 11.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-03-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 12.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-07-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 30.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-09-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 39.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-08-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 36.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-04-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 32.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-03-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 24.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-06-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 19.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-12",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 34.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-05-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 6.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-12-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 27.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 4.1,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-03-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 33.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-05-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 30.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-10-10",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 29.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-11-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 36.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-12-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Nguyen",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 10.7,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-08-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 16.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Garcia",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 21.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 15.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-11-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 22.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-02-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 34.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-03-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 22.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-09-15",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 26.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-11-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 10.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-07-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Learning_Hours": 14.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-03-16",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 33.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-09-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Muller",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 34.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-07-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Muller",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 9.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-02-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 12.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-01-25",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 4.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-10-20",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 36.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 33.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 15.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-05-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 12.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-10-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 32.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-06-08",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 13.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-04-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Learning_Hours": 30.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-10-18",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 31.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-09-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 30.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-10-24",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 23.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-10-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 33.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-03-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 28.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-11-15",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 7.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-11-26",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Learning_Hours": 9.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-10-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Learning_Hours": 29.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-09-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 25.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-02-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 26.5,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-11-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Learning_Hours": 32.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 32.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-04-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Brown",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 14.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-06-12",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 35.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-12-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 22.2,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-12-31",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Kim",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 7.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-05-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 21.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-05-11",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Muller",
+      "Department": "HR",
+      "Region": "NA",
+      "Learning_Hours": 3.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-07-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 10.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-07-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Learning_Hours": 3.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-03-17",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 20.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-07-08",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 28.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-11-01",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Learning_Hours": 27.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-08-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 0.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-11-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 37.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-02-02",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 9.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-04-28",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 3.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-01-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 19.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-11-28",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 34.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-12-05",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Learning_Hours": 14.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-09-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Learning_Hours": 13.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-06-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 3.4,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-04-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Learning_Hours": 35.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-02-19",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Learning_Hours": 37.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-01-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Learning_Hours": 3.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-07-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Learning_Hours": 18.4,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2027-09-30",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Operations",
+      "Region": "NA",
+      "Learning_Hours": 5.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-07-27",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 28.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-07-16",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 6.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-04-03",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 24.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2026-08-25",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Learning_Hours": 14.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-08-21",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 16.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-07-06",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Learning_Hours": 16.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2026-05-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Nguyen",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Learning_Hours": 15.0,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-03-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Learning_Hours": 13.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-08-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 9.6,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-06-07",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Finance",
+      "Region": "NA",
+      "Learning_Hours": 3.0,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-03-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 26.7,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2027-07-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Muller",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Learning_Hours": 7.3,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-10-14",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 26.9,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-08-05",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "HR",
+      "Region": "APAC",
+      "Learning_Hours": 0.2,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-10-26",
+      "Leadership_Program_Enrolled": "Yes"
+    },
+    {
+      "Worker": "Jamie Smith",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Learning_Hours": 1.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 2,
+      "Certification_Expiration_Date": "2026-09-04",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 16.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2026-12-23",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Learning_Hours": 2.1,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-01-29",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Kim",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Learning_Hours": 4.9,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 0,
+      "Certification_Expiration_Date": "2026-04-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Learning_Hours": 30.8,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 3,
+      "Certification_Expiration_Date": "2027-05-13",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Learning_Hours": 36.6,
+      "Compliance_Training_Status": "Complete",
+      "Certifications_Earned": 1,
+      "Certification_Expiration_Date": "2027-07-09",
+      "Leadership_Program_Enrolled": "No"
+    },
+    {
+      "Worker": "Riley Garcia",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Learning_Hours": 32.3,
+      "Compliance_Training_Status": "Incomplete",
+      "Certifications_Earned": 4,
+      "Certification_Expiration_Date": "2027-06-30",
+      "Leadership_Program_Enrolled": "Yes"
+    }
+  ]
+}

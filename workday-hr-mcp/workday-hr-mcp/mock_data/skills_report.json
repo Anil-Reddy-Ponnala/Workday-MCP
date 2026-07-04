@@ -1,0 +1,3604 @@
+{
+  "Report_Entry": [
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Kim",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Nguyen",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Chen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Kim",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Kim",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Brown",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Patel",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Rossi",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Rossi",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Nguyen",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Nguyen",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Chen",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Chen",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Muller",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Muller",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Chen",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Kim",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Patel",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Rossi",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Garcia",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Nguyen",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Garcia",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Nguyen",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Kim",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Muller",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Chen",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Kim",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Brown",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Muller",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Nguyen",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Nguyen",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Rossi",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Garcia",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Muller",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Nguyen",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Garcia",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Chen",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Nguyen",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Rossi",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Garcia",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Patel",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Patel",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Rossi",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Brown",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Rossi",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Brown",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Chen",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Customer Success",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Muller",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Muller",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Wei Kim",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Nguyen",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Finance",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Chen",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "HR",
+      "Region": "APAC",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "Operations",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "Marketing",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "Sales",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Fatima Lee",
+      "Department": "Finance",
+      "Region": "APAC",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Engineering",
+      "Region": "EMEA",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Engineering",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Nguyen",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "HR",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Garcia",
+      "Department": "Customer Success",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "HR",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "Engineering",
+      "Region": "APAC",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Rossi",
+      "Department": "Customer Success",
+      "Region": "LATAM",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Priya Garcia",
+      "Department": "Finance",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "Marketing",
+      "Region": "NA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "HR",
+      "Region": "NA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Muller",
+      "Department": "Engineering",
+      "Region": "LATAM",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Operations",
+      "Region": "EMEA",
+      "Skill_Name": "SQL",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "Marketing",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Sales",
+      "Region": "NA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Operations",
+      "Region": "LATAM",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "Sales",
+      "Region": "LATAM",
+      "Skill_Name": "Sales Negotiation",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Leadership",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Critical",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "Finance",
+      "Region": "EMEA",
+      "Skill_Name": "Data Analysis",
+      "Skill_Proficiency_Level": "Beginner",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Riley Brown",
+      "Department": "Marketing",
+      "Region": "APAC",
+      "Skill_Name": "Project Management",
+      "Skill_Proficiency_Level": "Intermediate",
+      "Skill_Category": "Core",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Operations",
+      "Region": "NA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    },
+    {
+      "Worker": "Taylor Muller",
+      "Department": "Sales",
+      "Region": "EMEA",
+      "Skill_Name": "Python",
+      "Skill_Proficiency_Level": "Expert",
+      "Skill_Category": "Core",
+      "Verified": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Customer Success",
+      "Region": "EMEA",
+      "Skill_Name": "Cloud Architecture",
+      "Skill_Proficiency_Level": "Advanced",
+      "Skill_Category": "Emerging",
+      "Verified": "Yes"
+    }
+  ]
+}

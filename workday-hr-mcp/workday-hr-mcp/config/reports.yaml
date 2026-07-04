@@ -1,0 +1,177 @@
+# Register every Workday custom report (exposed as RAAS) here once.
+# `id`        - short internal name, referenced from config/questions.yaml
+# `url`       - path appended to WORKDAY_BASE_URL (or a full URL) for the
+#               live RAAS endpoint, e.g. what you get from Workday's
+#               "View URLs" button on the custom report definition, using
+#               the JSON variant.
+# `mock_file` - JSON fixture in mock_data/ used when MOCK_MODE=true
+# `fields`    - documentation only (not enforced) — list the columns you
+#               put on the report so anyone extending questions.yaml
+#               knows what's available to filter/group/aggregate on.
+
+reports:
+  - id: workers_report
+    name: "Worker Master Report"
+    description: >
+      One row per worker. This is the workhorse report — headcount,
+      turnover, hiring, and mobility questions all read from this report
+      by filtering/grouping differently. Add fields here liberally; extra
+      fields cost nothing and unlock new questions later.
+    url: "/service/customreport2/your_tenant/ISU_User/Worker_Master_Report"
+    mock_file: "workers_report.json"
+    fields:
+      - Worker                     # name
+      - Employee_ID
+      - Active_Status               # Active / Terminated
+      - Employee_Type                # Employee / Contractor
+      - Full_Time_Part_Time
+      - Hire_Date
+      - Original_Hire_Date
+      - Termination_Date
+      - Termination_Reason
+      - Termination_Category        # Voluntary / Involuntary
+      - Regrettable_Termination     # Yes / No
+      - Department
+      - Cost_Center
+      - Region
+      - Location_Country
+      - Manager
+      - Manager_Employee_ID
+      - Job_Family
+      - Job_Profile
+      - Business_Title
+      - Management_Level
+      - Compensation_Grade
+      - Base_Pay
+      - Bonus_Target_Pct
+      - Last_Merit_Increase_Pct
+      - Performance_Rating
+      - Performance_Rating_Date
+      - Nine_Box_Rating
+      - Potential_Rating
+      - Time_in_Job_Profile_Days
+      - Time_in_Position_Days
+      - Is_Manager                  # Yes/No — powers span-of-control
+      - Direct_Report_Count
+      - Budgeted_Position           # Yes/No — powers budget vs actual
+
+  - id: requisitions_report
+    name: "Recruiting Requisitions Report"
+    description: >
+      One row per open/filled requisition — powers Hiring & Recruiting
+      questions (time to fill, aging reqs, source of hire, etc).
+    url: "/service/customreport2/your_tenant/ISU_User/Requisitions_Report"
+    mock_file: "requisitions_report.json"
+    fields:
+      - Requisition_ID
+      - Job_Requisition_Status       # Open / Filled / Closed
+      - Department
+      - Region
+      - Recruiter
+      - Hiring_Manager
+      - Date_Opened
+      - Date_Filled
+      - Days_Open
+      - Source_of_Hire
+      - Internal_External
+      - Candidate_Stage
+      - Offer_Status
+      - Critical_Role               # Yes/No
+
+  - id: nine_box_report
+    name: "Talent Review / Nine-Box Report"
+    description: >
+      One row per worker's latest talent review cycle result. Powers
+      Nine-Box & Talent Review and Succession Planning questions.
+    url: "/service/customreport2/your_tenant/ISU_User/Nine_Box_Report"
+    mock_file: "nine_box_report.json"
+    fields:
+      - Worker
+      - Department
+      - Manager
+      - Region
+      - Nine_Box_Category            # e.g. "High Performer / High Potential"
+      - Review_Cycle
+      - Successor_Readiness          # Ready Now / 1-2 Years / 3-5 Years / None
+      - Critical_Role_Flag
+
+  - id: mobility_report
+    name: "Internal Mobility Events Report"
+    description: >
+      One row per promotion/transfer/lateral-move event. Powers Internal
+      Mobility questions.
+    url: "/service/customreport2/your_tenant/ISU_User/Mobility_Events_Report"
+    mock_file: "mobility_report.json"
+    fields:
+      - Worker
+      - Department
+      - Manager
+      - Region
+      - Event_Type          # Promotion / Lateral Move / Transfer
+      - Event_Date
+      - Prior_Job_Profile
+      - New_Job_Profile
+      - Prior_Compensation_Grade
+      - New_Compensation_Grade
+      - Internal_Candidate  # Yes/No, for internal fill rate / candidate success
+
+  - id: learning_report
+    name: "Learning & Development Report"
+    description: >
+      One row per worker's learning activity summary. Powers Learning &
+      Development questions.
+    url: "/service/customreport2/your_tenant/ISU_User/Learning_Report"
+    mock_file: "learning_report.json"
+    fields:
+      - Worker
+      - Department
+      - Region
+      - Learning_Hours
+      - Compliance_Training_Status   # Complete / Incomplete
+      - Certifications_Earned
+      - Certification_Expiration_Date
+      - Leadership_Program_Enrolled  # Yes/No
+
+  - id: skills_report
+    name: "Skills Inventory Report"
+    description: >
+      One row per worker-skill pairing (or worker with a skills array
+      flattened). Powers Skills & Workforce Planning questions.
+    url: "/service/customreport2/your_tenant/ISU_User/Skills_Report"
+    mock_file: "skills_report.json"
+    fields:
+      - Worker
+      - Department
+      - Region
+      - Skill_Name
+      - Skill_Proficiency_Level
+      - Skill_Category          # e.g. Critical / Emerging / Core
+      - Verified                # Yes/No
+
+  - id: engagement_report
+    name: "Engagement Survey Report"
+    description: >
+      One row per worker per survey cycle. Powers Employee Engagement
+      questions.
+    url: "/service/customreport2/your_tenant/ISU_User/Engagement_Report"
+    mock_file: "engagement_report.json"
+    fields:
+      - Worker
+      - Department
+      - Manager
+      - Region
+      - Survey_Cycle
+      - Participated             # Yes/No
+      - Engagement_Score
+      - Manager_Effectiveness_Score
+      - Burnout_Risk_Flag         # Yes/No
+
+# ── How to add a NEW Workday report ─────────────────────────────────
+# 1. Build the custom report in Workday, add the fields you need as
+#    columns, enable it "As Web Service" (RAAS), share it with your ISU.
+# 2. Grab its JSON URL and paste it under `url` below (or add a new
+#    fixture under `mock_file` for local testing before the real report
+#    exists).
+# 3. Add a new entry to this file with a unique `id`.
+# 4. Reference that `id` from `report:` in config/questions.yaml.
+# No Python code changes needed for any of this.

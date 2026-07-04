@@ -1,0 +1,2004 @@
+{
+  "Report_Entry": [
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Engineering",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "Customer Success",
+      "Manager": "Manager C",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Finance",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Patel",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Lee",
+      "Department": "Engineering",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Smith",
+      "Department": "Finance",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Chen",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "Operations",
+      "Manager": "Manager F",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Customer Success",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Nguyen",
+      "Department": "Finance",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Finance",
+      "Manager": "Manager D",
+      "Region": "NA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "Sales",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jamie Smith",
+      "Department": "Marketing",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Garcia",
+      "Department": "Customer Success",
+      "Manager": "Manager B",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Muller",
+      "Department": "Engineering",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Chen",
+      "Department": "Customer Success",
+      "Manager": "Manager G",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Operations",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Chen",
+      "Department": "Finance",
+      "Manager": "Manager C",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Finance",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Engineering",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Finance",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Nguyen",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Customer Success",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Sales",
+      "Manager": "Manager C",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Lee",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "HR",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Operations",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Brown",
+      "Department": "Customer Success",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Rossi",
+      "Department": "Sales",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Sales",
+      "Manager": "Manager B",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Engineering",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Sales",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "Customer Success",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "Sales",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Sales",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "HR",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Marketing",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Riley Garcia",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Operations",
+      "Manager": "Manager B",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Patel",
+      "Department": "HR",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "Sales",
+      "Manager": "Manager B",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Patel",
+      "Department": "Engineering",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Sales",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Rossi",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Brown",
+      "Department": "HR",
+      "Manager": "Manager H",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Kim",
+      "Department": "Sales",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "HR",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Sales",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Marketing",
+      "Manager": "Manager C",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "HR",
+      "Manager": "Manager C",
+      "Region": "NA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Finance",
+      "Manager": "Manager F",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Operations",
+      "Manager": "Manager C",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Chen",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Marketing",
+      "Manager": "Manager B",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Customer Success",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "HR",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Brown",
+      "Department": "Sales",
+      "Manager": "Manager D",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Brown",
+      "Department": "Sales",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Kim",
+      "Department": "Operations",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Finance",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Patel",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "Operations",
+      "Manager": "Manager C",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "Engineering",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "Engineering",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager D",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Rossi",
+      "Department": "Marketing",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Kim",
+      "Department": "Marketing",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Nguyen",
+      "Department": "Operations",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Brown",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager C",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Marketing",
+      "Manager": "Manager F",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "Operations",
+      "Manager": "Manager B",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Sales",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Nguyen",
+      "Department": "Customer Success",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "Customer Success",
+      "Manager": "Manager H",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Muller",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Kim",
+      "Department": "Sales",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Smith",
+      "Department": "Marketing",
+      "Manager": "Manager F",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Engineering",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Taylor Garcia",
+      "Department": "Marketing",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "HR",
+      "Manager": "Manager F",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Customer Success",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Sam Nguyen",
+      "Department": "HR",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Marketing",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Lee",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Finance",
+      "Manager": "Manager F",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Lee",
+      "Department": "Engineering",
+      "Manager": "Manager G",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Rossi",
+      "Department": "Operations",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Marketing",
+      "Manager": "Manager B",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jordan Brown",
+      "Department": "Operations",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Muller",
+      "Department": "Sales",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jamie Rossi",
+      "Department": "Operations",
+      "Manager": "Manager F",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Finance",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "Customer Success",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "Marketing",
+      "Manager": "Manager F",
+      "Region": "APAC",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Marketing",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Sales",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Finance",
+      "Manager": "Manager F",
+      "Region": "NA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Operations",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Smith",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Engineering",
+      "Manager": "Manager E",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "Marketing",
+      "Manager": "Manager E",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Garcia",
+      "Department": "HR",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Customer Success",
+      "Manager": "Manager C",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Patel",
+      "Department": "Operations",
+      "Manager": "Manager D",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Nguyen",
+      "Department": "Operations",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager F",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Customer Success",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Rossi",
+      "Department": "HR",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Smith",
+      "Department": "Marketing",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Patel",
+      "Department": "Finance",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Smith",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Garcia",
+      "Department": "Finance",
+      "Manager": "Manager B",
+      "Region": "APAC",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Marketing",
+      "Manager": "Manager B",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Rossi",
+      "Department": "Finance",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Sales",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Marketing",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Smith",
+      "Department": "Sales",
+      "Manager": "Manager A",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Operations",
+      "Manager": "Manager C",
+      "Region": "APAC",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Finance",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Engineering",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Smith",
+      "Department": "Engineering",
+      "Manager": "Manager H",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Garcia",
+      "Department": "HR",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Rossi",
+      "Department": "HR",
+      "Manager": "Manager F",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "Engineering",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Sales",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "Sales",
+      "Manager": "Manager B",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Kim",
+      "Department": "Finance",
+      "Manager": "Manager D",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jamie Muller",
+      "Department": "Engineering",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Rossi",
+      "Department": "Marketing",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Chen",
+      "Department": "Marketing",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Marketing",
+      "Manager": "Manager B",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Lee",
+      "Department": "Engineering",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Sam Muller",
+      "Department": "Marketing",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Nguyen",
+      "Department": "HR",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Sales",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Smith",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Garcia",
+      "Department": "Operations",
+      "Manager": "Manager C",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Customer Success",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Muller",
+      "Department": "HR",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Kim",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Kim",
+      "Department": "Operations",
+      "Manager": "Manager G",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Muller",
+      "Department": "Marketing",
+      "Manager": "Manager E",
+      "Region": "APAC",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Patel",
+      "Department": "Finance",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Chen",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "APAC",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Smith",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Riley Smith",
+      "Department": "Sales",
+      "Manager": "Manager H",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Kim",
+      "Department": "Finance",
+      "Manager": "Manager E",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Lee",
+      "Department": "Sales",
+      "Manager": "Manager E",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Chen",
+      "Department": "Finance",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Smith",
+      "Department": "Finance",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "HR",
+      "Manager": "Manager D",
+      "Region": "NA",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Brown",
+      "Department": "Marketing",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Taylor Chen",
+      "Department": "Finance",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Engineering",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Patel",
+      "Department": "Operations",
+      "Manager": "Manager G",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Wei Chen",
+      "Department": "Marketing",
+      "Manager": "Manager F",
+      "Region": "APAC",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Priya Lee",
+      "Department": "Engineering",
+      "Manager": "Manager C",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Kim",
+      "Department": "HR",
+      "Manager": "Manager H",
+      "Region": "APAC",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Marketing",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Jordan Garcia",
+      "Department": "Sales",
+      "Manager": "Manager B",
+      "Region": "EMEA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "Finance",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Garcia",
+      "Department": "Sales",
+      "Manager": "Manager F",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Diego Lee",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Kim",
+      "Department": "Engineering",
+      "Manager": "Manager B",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Patel",
+      "Department": "Engineering",
+      "Manager": "Manager H",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Riley Nguyen",
+      "Department": "Operations",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Engineering",
+      "Manager": "Manager H",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Diego Rossi",
+      "Department": "Finance",
+      "Manager": "Manager B",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Inconsistent Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Diego Patel",
+      "Department": "Marketing",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Priya Rossi",
+      "Department": "Engineering",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Smith",
+      "Department": "Finance",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Nguyen",
+      "Department": "Marketing",
+      "Manager": "Manager E",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Alex Chen",
+      "Department": "Marketing",
+      "Manager": "Manager H",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Risk",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Alex Lee",
+      "Department": "Customer Success",
+      "Manager": "Manager D",
+      "Region": "NA",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Lee",
+      "Department": "Operations",
+      "Manager": "Manager A",
+      "Region": "LATAM",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "1-2 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jamie Brown",
+      "Department": "Customer Success",
+      "Manager": "Manager D",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Sam Chen",
+      "Department": "Marketing",
+      "Manager": "Manager G",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Jordan Chen",
+      "Department": "Sales",
+      "Manager": "Manager G",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Casey Brown",
+      "Department": "HR",
+      "Manager": "Manager G",
+      "Region": "NA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Taylor Brown",
+      "Department": "Customer Success",
+      "Manager": "Manager A",
+      "Region": "APAC",
+      "Nine_Box_Category": "Core Player",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "Ready Now",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Morgan Brown",
+      "Department": "Engineering",
+      "Manager": "Manager C",
+      "Region": "LATAM",
+      "Nine_Box_Category": "High Performer/High Potential",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    },
+    {
+      "Worker": "Fatima Muller",
+      "Department": "Operations",
+      "Manager": "Manager F",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Trusted Professional",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "None",
+      "Critical_Role_Flag": "Yes"
+    },
+    {
+      "Worker": "Casey Garcia",
+      "Department": "Finance",
+      "Manager": "Manager D",
+      "Region": "EMEA",
+      "Nine_Box_Category": "Emerging Talent",
+      "Review_Cycle": "2026-H1",
+      "Successor_Readiness": "3-5 Years",
+      "Critical_Role_Flag": "No"
+    }
+  ]
+}
